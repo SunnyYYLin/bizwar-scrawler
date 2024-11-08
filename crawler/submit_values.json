@@ -1,0 +1,23 @@
+{
+    "urgent": "提交紧急借款",
+    "last_pay": "提交期初收付",
+    "financing": "提交筹资决策",
+    "preferred": "提交发行优先股",
+    "investing": "提交投资决策",
+    "fact_manage": "提交厂房管理",
+    "mach_manage": "提交生产线管理",
+    "agent_manage": "提交经销商管理",
+    "r_and_d": "提交产品研发",
+    "worker_deci": "提交用工管理",
+    "purchase": "提交采购决策",
+    "booking": "提交预订原材料",
+    "urgent_purchase": "提交紧急采购",
+    "producing": "提交生产排班",
+    "warehouse": "提交实施生产",
+    "delivering": "提交交货决策",
+    "dividing": "提交利润分配",
+    "expense": "提交费用核算",
+    "profit": "提交利润表",
+    "balance": "提交资产负债表",
+    "marketing": "提交竞单方案"
+}
